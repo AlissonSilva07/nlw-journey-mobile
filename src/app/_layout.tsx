@@ -7,6 +7,7 @@ import {
     Inter_400Regular,
     Inter_600SemiBold
 } from '@expo-google-fonts/inter'
+import '@/utils/dayjsLocaleConfig'
 
 import { Loading } from '@/components/loading'
 
